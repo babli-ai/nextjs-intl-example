@@ -12,7 +12,7 @@
   },
   "LocaleSwitcher": {
     "label": "Změnit jazyk",
-    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Neznámý}}"
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} cs {🇨🇿 Čeština} other {Neznámý}}"
   },
   "Manifest": {
     "name": "next-intl příklad"
