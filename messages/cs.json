@@ -1,0 +1,46 @@
+{
+  "Error": {
+    "description": "<p>Bohužel jsme narazili na chybu.</p><p>Můžete zkusit <retry>znovu načíst stránku</retry>, kterou jste navštívili.</p>",
+    "title": "Něco se pokazilo!"
+  },
+  "IndexPage": {
+    "description": "Toto je základní příklad, který demonstruje použití <code>next-intl</code> s Next.js App Routerem. Zkuste změnit jazyk v pravém horním rohu a uvidíte, jak se obsah změní.",
+    "title": "next-intl příklad"
+  },
+  "LocaleLayout": {
+    "title": "next-intl příklad"
+  },
+  "LocaleSwitcher": {
+    "label": "Změnit jazyk",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Neznámý}}"
+  },
+  "Manifest": {
+    "name": "next-intl příklad"
+  },
+  "Navigation": {
+    "home": "Domů",
+    "pathnames": "Cesty"
+  },
+  "NotFoundPage": {
+    "description": "Prosím, zkontrolujte adresní řádek prohlížeče nebo použijte navigaci k přechodu na známou stránku.",
+    "title": "Stránka nenalezena"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "Zjistěte více o next-intl v oficiální dokumentaci.",
+        "href": "https://next-intl-docs.vercel.app/",
+        "title": "Dokumentace"
+      },
+      "source": {
+        "description": "Prohlédněte si zdrojový kód tohoto příkladu na GitHubu.",
+        "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+        "title": "Zdrojový kód"
+      }
+    }
+  },
+  "PathnamesPage": {
+    "description": "<p>Cesty jsou také internacionalizovány.</p><p>Pokud používáte výchozí jazyk angličtinu, uvidíte <code>/en/pathnames</code> v adresním řádku prohlížeče na této stránce.</p><p>Pokud změníte jazyk na němčinu, URL se lokalizuje odpovídajícím způsobem (<code>/de/pfadnamen</code>).</p>",
+    "title": "Cesty"
+  }
+}
