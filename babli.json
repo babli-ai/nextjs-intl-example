@@ -1,5 +1,5 @@
 {
   "projectId": "83e9a45a-eb52-4461-bf2d-5785703b53d9",
-  "translationFiles": [{ "pattern": "messages/{{lang}}.json" }],
+  "translationFiles": [{ "path": "messages/{{lang}}.json" }],
   "fileFormat": "json-nested"
 }
