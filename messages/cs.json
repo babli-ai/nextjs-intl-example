@@ -42,5 +42,8 @@
   "PathnamesPage": {
     "description": "<p>Cesty jsou také internacionalizovány.</p><p>Pokud používáte výchozí jazyk angličtinu, uvidíte <code>/en/pathnames</code> v adresním řádku prohlížeče na této stránce.</p><p>Pokud změníte jazyk na němčinu, URL se lokalizuje odpovídajícím způsobem (<code>/de/pfadnamen</code>).</p>",
     "title": "Cesty"
+  },
+  "Test": {
+    "test": "test"
   }
 }
